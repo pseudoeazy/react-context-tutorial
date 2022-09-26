@@ -4,8 +4,6 @@ In this tutorial, we are going to build an e-commerce store and walk through exa
 
 Open [Live URL](http://react-context-tutorial-sf2t.vercel.app/)
 
-Open index.html in a browser to view it.
-
 ## Setup The Project Locally
 
 - `clone repo`
